@@ -8,7 +8,7 @@ const next = require("../assets/icons/chevron-right.svg");
 const info = require("../assets/icons/info.svg");
 const github = require("../assets/icons/github.svg");
 const like = require("../assets/icons/heart.svg");
-const project1 = require("/public/landscape/IMG_1533.jpg");
+const project1 = require("/public/landscape/20201227_183239.jpg");
 
 const GlassProjects = ({ title, image, onClose, description }) => {
   const [isLiked, setIsLiked] = useState(false);
